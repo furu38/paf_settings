@@ -1,0 +1,2 @@
+# paf_settings
+PostgresSQLとPacemaker、PAFでの自動フェイルオーバー用設定ファイル群
